@@ -6,7 +6,7 @@ We present a single-objective light-sheet microscope, also known as an oblique-p
 ## BioRxiv Preprint
 
 ## Authors
-Etai Sapoznik1,2, Bo-Jui Chang1, Robert J. Ju3, Erik S. Welf1,2, David Broadbent4, Alexandre F. Carisey5, Samantha J. Stehbens3, Kyung-min Lee6, Arnaldo Marín6, Ariella B. Hanker6, Jens C. Schmidt4,7, Carlos L. Arteaga6, Bin Yang8, Rory Kruithoff9, Doug P. Shepherd9, Alfred Millett-Sikking10, Andrew G. York10, Kevin M. Dean1*, Reto Fiolka1,2*
+Etai Sapoznik (1,2), Bo-Jui Chang (1), Robert J. Ju (3), Erik S. Welf (1,2), David Broadbent (4), Alexandre F. Carisey (5), Samantha J. Stehbens (3), Kyung-min Lee (6), Arnaldo Marín (6), Ariella B. Hanker (6), Jens C. Schmidt (4,7), Carlos L. Arteaga (6), Bin Yang (8), Rory Kruithoff (9), Doug P. Shepherd (9), Alfred Millett-Sikking (10), Andrew G. York (10), Kevin M. Dean (1*), Reto Fiolka (1,2*)
 
 ## Affiliations
 1 – Department of Cell Biology, University of Texas Southwestern Medical Center, Dallas, TX, USA.
