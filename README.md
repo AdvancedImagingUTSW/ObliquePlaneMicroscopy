@@ -1,4 +1,32 @@
-# ObliquePlaneMicroscopy
+# Title
+A Single-Objective Light-Sheet Microscope with 200 nm-Scale Resolution.
+
+# Abstract
+We present a single-objective light-sheet microscope, also known as an oblique-plane microscope, that uses a bespoke glass-tipped tertiary objective and improves the resolution, field of view, usability, and stability over previous variants. Owing to its high numerical aperture optics, this microscope achieves the highest lateral resolution in light-sheet fluorescence microscopy, and its axial resolution is similar to that of Lattice Light-Sheet Microscopy. Given this performance, we demonstrate high-resolution imaging of clathrin-mediated endocytosis, vimentin, the endoplasmic reticulum, membrane dynamics, and natural killer cell-mediated cell death. Furthermore, we image biological phenomena that would be otherwise challenging or impossible to perform in a traditional light-sheet microscope geometry, including cell migration through a confined space within a microfluidic device, photoactivation of PI3K, and diffusion of cytoplasmic rheological tracers at a volumetric rate of 14 Hz.
+
+# BioRxiv Preprint
+
+# Authors
+Etai Sapoznik1,2, Bo-Jui Chang1, Robert J. Ju3, Erik S. Welf1,2, David Broadbent4, Alexandre F. Carisey5, Samantha J. Stehbens3, Kyung-min Lee6, Arnaldo Marín6, Ariella B. Hanker6, Jens C. Schmidt4,7, Carlos L. Arteaga6, Bin Yang8, Rory Kruithoff9, Doug P. Shepherd9, Alfred Millett-Sikking10, Andrew G. York10, Kevin M. Dean1*, Reto Fiolka1,2*
+
+# Affiliations
+1 – Department of Cell Biology, University of Texas Southwestern Medical Center, Dallas, TX, USA.
+2 – Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, TX, USA.
+3 – Institute for Molecular Bioscience, University of Queensland, St Lucia, Queensland, Australia.
+4 – Institute for Quantitative Health Sciences and Engineering, Michigan State University, East Lansing, MI, USA.
+5 – William T. Shearer Center for Human Immunobiology, Baylor College of Medicine and Texas Children’s Hospital, Houston, TX, USA.
+6 – Harold C. Simmons Comprehensive Cancer Center and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, TX, USA.
+7 - Department of Obstetrics, Gynecology, and Reproductive Biology, Michigan State University, East Lansing, MI, USA.
+8 – Chan Zuckerberg Biohub, San Francisco, CA, USA.
+9 – Department of Physics and the Center for Biological Physics, Arizona State University, Tempe, AZ, USA.
+10 – Calico Life Sciences LLC, South San Francisco, CA, USA.
+
+*Correspondence
+Kevin.Dean@utsouthwestern.edu
+Reto.Fiolka@utsouthwestern.edu
+
+
+# Software
 Shearing and Deconvolution Routines for OPM (Snouty)
 
 Python and MATLAB routines for shearing and deconvolving data, respectively.  
