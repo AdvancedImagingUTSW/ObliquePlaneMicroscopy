@@ -9,16 +9,16 @@ We present a single-objective light-sheet microscope, also known as an oblique-p
 Etai Sapoznik (1,2), Bo-Jui Chang (1), Robert J. Ju (3), Erik S. Welf (1,2), David Broadbent (4), Alexandre F. Carisey (5), Samantha J. Stehbens (3), Kyung-min Lee (6), Arnaldo Marín (6), Ariella B. Hanker (6), Jens C. Schmidt (4,7), Carlos L. Arteaga (6), Bin Yang (8), Rory Kruithoff (9), Doug P. Shepherd (9), Alfred Millett-Sikking (10), Andrew G. York (10), Kevin M. Dean (1*), Reto Fiolka (1,2*)
 
 ## Affiliations
-1 – Department of Cell Biology, University of Texas Southwestern Medical Center, Dallas, TX, USA.
-2 – Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, TX, USA.
-3 – Institute for Molecular Bioscience, University of Queensland, St Lucia, Queensland, Australia.
-4 – Institute for Quantitative Health Sciences and Engineering, Michigan State University, East Lansing, MI, USA.
-5 – William T. Shearer Center for Human Immunobiology, Baylor College of Medicine and Texas Children’s Hospital, Houston, TX, USA.
-6 – Harold C. Simmons Comprehensive Cancer Center and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, TX, USA.
-7 - Department of Obstetrics, Gynecology, and Reproductive Biology, Michigan State University, East Lansing, MI, USA.
-8 – Chan Zuckerberg Biohub, San Francisco, CA, USA.
-9 – Department of Physics and the Center for Biological Physics, Arizona State University, Tempe, AZ, USA.
-10 – Calico Life Sciences LLC, South San Francisco, CA, USA.
+* 1 – Department of Cell Biology, University of Texas Southwestern Medical Center, Dallas, TX, USA.
+* 2 – Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, TX, USA.
+* 3 – Institute for Molecular Bioscience, University of Queensland, St Lucia, Queensland, Australia.
+* 4 – Institute for Quantitative Health Sciences and Engineering, Michigan State University, East Lansing, MI, USA.
+* 5 – William T. Shearer Center for Human Immunobiology, Baylor College of Medicine and Texas Children’s Hospital, Houston, TX, USA.
+* 6 – Harold C. Simmons Comprehensive Cancer Center and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, TX, USA.
+* 7 - Department of Obstetrics, Gynecology, and Reproductive Biology, Michigan State University, East Lansing, MI, USA.
+* 8 – Chan Zuckerberg Biohub, San Francisco, CA, USA.
+* 9 – Department of Physics and the Center for Biological Physics, Arizona State University, Tempe, AZ, USA.
+* 10 – Calico Life Sciences LLC, South San Francisco, CA, USA.
 
 *Correspondence
 Kevin.Dean@utsouthwestern.edu
