@@ -20,9 +20,9 @@ Etai Sapoznik (1,2), Bo-Jui Chang (1), Robert J. Ju (3), Erik S. Welf (1,2), Dav
 * 9 – Department of Physics and the Center for Biological Physics, Arizona State University, Tempe, AZ, USA.
 * 10 – Calico Life Sciences LLC, South San Francisco, CA, USA.
 
-*Correspondence
-Kevin.Dean@utsouthwestern.edu
-Reto.Fiolka@utsouthwestern.edu
+## Correspondence
+* Kevin.Dean@utsouthwestern.edu
+* Reto.Fiolka@utsouthwestern.edu
 
 
 ## Software
